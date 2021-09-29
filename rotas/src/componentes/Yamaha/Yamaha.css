@@ -1,0 +1,11 @@
+
+.yamaha {
+  background-image: url("https://www.motor.nl/wp-content/uploads/2018/10/Yamaha-1200-Super-Tenere-1-1024x683.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 350px;
+}

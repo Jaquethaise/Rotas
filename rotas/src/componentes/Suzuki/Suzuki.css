@@ -1,0 +1,11 @@
+
+.suzuki {
+  background-image: url("https://www.iamabiker.com/wp-content/uploads/2019/11/Suzuki-V-Strom-1050-high-res-images.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 350px;
+}

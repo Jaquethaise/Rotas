@@ -1,0 +1,11 @@
+
+.lambreta {
+  background-image: url("https://cdna.artstation.com/p/assets/images/images/003/916/544/large/raul-sales-lambreta-keyshot-10-b.jpg?1478523804");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 350px;
+}

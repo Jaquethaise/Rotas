@@ -1,0 +1,11 @@
+
+.inicio {
+  background-image: url("http://blog.kildare.com.br/wp-content/uploads/2019/07/original-753a0fc0f90d2741e1b9524b8b8d46b0-1200x675.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 350px;
+}

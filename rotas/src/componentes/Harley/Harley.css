@@ -1,0 +1,11 @@
+
+.harley {
+  background-image: url("https://motonewsbrasil.com/wp-content/uploads/2021/07/2021-harley-davidson-sportster-s-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 350px;
+}

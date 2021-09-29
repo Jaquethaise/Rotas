@@ -1,0 +1,11 @@
+
+.city {
+  background-image: url("https://cdn.autopapo.com.br/box/uploads/2019/10/11173629/gl-1800-gold-wing_bikefest_rafael-gagliano-10380-20.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 350px;
+}
